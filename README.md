@@ -1,2 +1,0 @@
-# echarts
-echarts project
