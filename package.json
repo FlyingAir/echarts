@@ -1,0 +1,12 @@
+{
+  "name": "echarts",
+  "version": "1.0.0",
+  "description": "My echats project",
+  "main": "index.js",
+  "repository": "https://github.com/FlyingAir/echarts.git",
+  "author": "FlyingAir <827199132@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "echarts": "^3.6.2"
+  }
+}
